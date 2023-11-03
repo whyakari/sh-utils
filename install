@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# 2023 © Akari Azusagawa
+
+# Clone Repository
+git clone https://github.com/whyakari/upbotsdocker && cd upbotsdocker && clear
+
+# Install Modules
+sh modules
